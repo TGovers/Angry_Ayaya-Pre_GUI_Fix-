@@ -12,9 +12,9 @@
 ## Table of Contents  
 [Angry Ayaya TLDR](#angryayayatldr)
 
-[Installation Guide](#installationguide)
+[Installation Guide](#installation-guide)
 
-[Angry Ayaya In-depth](#angryayayaindepth)
+[Angry Ayaya In-depth](#angry-ayaya-in-depth)
 
 [Contributing](#contributing)
 
