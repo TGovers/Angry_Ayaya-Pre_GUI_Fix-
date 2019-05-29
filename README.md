@@ -7,6 +7,25 @@
 ### /// INTRODUCING ///
 ### /// ANGRY AYAYA ///
 
+![alt text](https://i.imgur.com/BVEH52G.png "Ayaya")
+
+## Table of Contents  
+[Angry Ayaya TLDR](#angryayayatldr)
+
+[Installation Guide](#installationguide)
+
+[Angry Ayaya In-depth](#angryayayaindepth)
+
+[Contributing](#contributing)
+
+[License](#license)
+
+<a name="angryayayatldr"/>
+<a name="installationguide"/>
+<a name="angryayayaindepth"/>
+
+## Angry Ayaya TLDR
+
 Angry Ayaya is a simple and intuitive VST plugin with an anime aesthetic. It utilises a 2-parameter IRR filter and a 4-parameter Distortion. Angry Ayaya was designed for use with a multitude of different instruments in mind, such as
 * Synths
 * Baritone Electric Guitars
@@ -28,8 +47,8 @@ Thank you!
 For Mac users, we recommend cloning/downloading the repository to your computer and installing the plugin through the easy-to-use DMG installer
 
 For Windows users, you will need to setup and run the plugin on your computer. For this you will need
-* Projucer
-* Windows Visual Studio
+* [Projucer](https://juce.com/ "https://juce.com/")
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/ "https://visualstudio.microsoft.com/")
 
 Please refer to a youtube guide in setting up these programmes if you are unsure! We recommend this video.
 
