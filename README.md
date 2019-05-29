@@ -35,7 +35,13 @@ Angry Ayaya is a simple and intuitive VST plugin with an anime aesthetic. It uti
 
 Angry Ayaya has full automation and save state capabilities for easy use within your favourite DAW! Currently Angry Ayaya only has a mac DMG installer, but can be used on Windows via the instructions listed here.
 
-Angry Ayaya was inspired by the internet meme “Ayaya”, here is a link to the majesty that is Ayaya (add link). We created the plugin with the mindset of making a great-sounding plugin first and foremost, with a visually-appealing aesthetic following that. 
+Angry Ayaya was inspired by the internet meme “Ayaya”, click the link to the Youtube video below to witness the majesty that is Ayaya 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9wnNW4HyDtg
+" target="_blank"><img src="http://img.youtube.com/vi/9wnNW4HyDtg/0.jpg" 
+alt="Ayaya Intensifies" width="240" height="180" border="10" /></a>
+
+We created the plugin with the mindset of making a great-sounding plugin first and foremost, with a visually-appealing aesthetic following that. 
 
 We really hope that you enjoy our plugin and make some awesome tunes with it!
 Thank you!
