@@ -54,11 +54,15 @@ For Windows users, you will need to setup and run the plugin on your computer. F
 * [Projucer](https://juce.com/ "https://juce.com/")
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/ "https://visualstudio.microsoft.com/")
 
-Please refer to a youtube guide in setting up these programmes if you are unsure! We recommend this video.
+Please refer to a youtube guide or the JUCE website if you are unsure on how to begin! We recommend this [video by Miskat Music](https://www.youtube.com/watch?v=rGzSSNjbXlA "https://www.youtube.com/watch?v=rGzSSNjbXlA") or the [JUCE Tutorials Page](https://juce.com/learn/tutorials "https://juce.com/learn/tutorials").
+
+Another great source of help we can recommend is [The Audio Programmer Youtube Page](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A "https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A") 
 
 ## Angry Ayaya In-depth
 
-Angry Ayaya was built with Projucer(add link)/XCode(add link) as a plugin suited specifically to those who maybe don’t know their way round plugins, but are wanting something cool and intuitive to add that extra “oomph!” to their work. It utilises an always-active low-pass IIR filter and an optional distortion. IIR filters stands for an Infinite Impulse Response filter, which is unique with how the decay never really reaches zero (to put it simply!). We choose to use this as we personally thought it sounded the best out of the different kinds of filters that we tested. 
+Angry Ayaya was primarily built with [Projucer](https://juce.com/ "https://juce.com/")/[XCode](https://developer.apple.com/xcode/ "https://developer.apple.com/xcode/") as a plugin suited specifically to those who maybe don’t know their way round plugins, but are wanting something cool and intuitive to add that extra “oomph!” to their work.
+
+It utilises an always-active low-pass IIR filter and an optional distortion. IIR filters stands for an Infinite Impulse Response filter, which is unique with how the decay never really reaches zero (to put it simply!). We choose to use this as we personally thought it sounded the best out of the different kinds of filters that we tested. 
 
 The IIR filter has two parameters that you can change; the frequency Cutoff and the Q-Factor. 
 * The Cuttoff knob changes the maximum frequency that the filter will let through (as a low-pass filter)
